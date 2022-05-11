@@ -20,14 +20,14 @@
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=dllpl&layout=compact)](https://github.com/dllpl/github-readme-stats)
 
 **Моё портфолио**
-https://dengimigom.ru/
-https://lk.dengimigom.ru/
-https://locotrips.ru/
-https://elpts.ru/
-http://reg.gospts.ru/
-https://admin.gospts.ru/
-https://webseed.ru/
-https://altai-voyage.ru/
+https://dengimigom.ru/ <br>
+https://lk.dengimigom.ru/ <br>
+https://locotrips.ru/ <br>
+https://elpts.ru/ <br>
+http://reg.gospts.ru/ <br>
+https://admin.gospts.ru/ <br>
+https://webseed.ru/ <br>
+https://altai-voyage.ru/ <br>
 и т.д.
 
 
