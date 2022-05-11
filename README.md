@@ -18,3 +18,17 @@
 ## Моя статистика на GitHub
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=dllpl&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/dllpl/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=dllpl&layout=compact)](https://github.com/dllpl/github-readme-stats)
+
+**Моё портфолио**
+https://dengimigom.ru/
+https://lk.dengimigom.ru/
+https://locotrips.ru/
+https://elpts.ru/
+http://reg.gospts.ru/
+https://admin.gospts.ru/
+https://webseed.ru/
+https://altai-voyage.ru/
+и т.д.
+
+
+
