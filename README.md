@@ -28,6 +28,7 @@ http://reg.gospts.ru/ <br>
 https://admin.gospts.ru/ <br>
 https://webseed.ru/ <br>
 https://altai-voyage.ru/ <br>
+https://kuratorplus.ru/ <br>
 и т.д.
 
 
