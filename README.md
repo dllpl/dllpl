@@ -19,7 +19,7 @@
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=dllpl&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/dllpl/)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=dllpl&layout=compact)](https://github.com/dllpl/)
 
-**Мои актуальные и выполненные проекты** <br>
+**Мои текущие и выполненные проекты** <br>
 https://dengimigom.ru/ (WP+Elementor)<br>
 https://lk.dengimigom.ru/ (Laravel+Vue)<br>
 https://locotrips.ru/ (Laravel+Vue)<br>
