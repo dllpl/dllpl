@@ -29,7 +29,9 @@ https://admin.gospts.ru/ (Laravel Jetstream)<br>
 https://webseed.ru/ (HTML+CSS)<br>
 https://altai-voyage.ru/ (WP+Elemenotr)<br>
 https://kuratorplus.ru/ (Laravel+Vue)<br>
-и т.д.
+https://hudkoff.ru/ (WP+Woocommerce)<br>
+https://hiring-it.ru/ (WP)<br>
+
 
 
 
