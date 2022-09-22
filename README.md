@@ -28,6 +28,7 @@
 **Мои текущие и выполненные проекты** <br>
 https://dengimigom.ru/ (WP+Elementor)<br>
 https://lk.dengimigom.ru/ (Laravel+Vue)<br>
+https://lk2.dengimigom.ru/ (Laravel+Vue)<br>
 https://locotrips.ru/ (Laravel+Vue)<br>
 https://elpts.ru/ (WP+Elementor)<br>
 http://reg.gospts.ru/ (Vue)<br>
