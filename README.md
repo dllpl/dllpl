@@ -31,11 +31,11 @@ https://elpts.ru/ (WP+Elementor)<br>
 http://reg.gospts.ru/ (Vue)<br>
 https://admin.gospts.ru/ (Laravel Jetstream)<br>
 https://webseed.ru/ (HTML+CSS)<br>
-https://altai-voyage.ru/ (WP+Elemenotr)<br>
+https://altai-voyage.ru/ (WP+Elementor)<br>
 https://kuratorplus.ru/ (Laravel+Vue)<br>
 https://hudkoff.ru/ (WP+Woocommerce)<br>
 https://hiring-it.ru/ (WP)<br>
-
+https://newspeas.ru/ (WP+Elementor+Autoposting)<br>
 
 
 
