@@ -35,6 +35,7 @@ https://kuratorplus.ru/ (Laravel+Vue)<br>
 https://hudkoff.ru/ (WP+Woocommerce)<br>
 https://hiring-it.ru/ (WP)<br>
 https://newspeas.ru/ (WP+Elementor+Autoposting)<br>
+https://monolitcollector.ru/ (WP+Elementor)
 
 
 
