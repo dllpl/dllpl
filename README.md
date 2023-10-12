@@ -31,7 +31,7 @@ http://reg.gospts.ru/ (Vue)<br>
 https://admin.gospts.ru/ (Laravel Jetstream)<br>
 https://webseed.ru/ (HTML+CSS)<br>
 https://altai-voyage.ru/ (WP+Elementor)<br>
-https://спецагромаш.рф (WP)
+https://спецагромаш.рф (WP) <br>
 https://kuratorplus.ru/ (Laravel+Vue)<br>
 https://hudkoff.ru/ (WP+Woocommerce)<br>
 https://hiring-it.ru/ (WP)<br>
