@@ -24,19 +24,19 @@
 
 **Мои текущие и выполненные проекты** <br>
 https://dengimigom.ru/ (WP+Elementor)<br>
-https://lk.dengimigom.ru/ (Laravel+Vue)<br>
-https://lk2.dengimigom.ru/ (Laravel+Vue)<br>
-https://locotrips.ru/ (Laravel+Vue)<br>
-http://reg.gospts.ru/ (Vue)<br>
-https://admin.gospts.ru/ (Laravel Jetstream)<br>
+https://lk.dengimigom.ru/ (Laravel 9 + Vue 2)<br>
+https://locotrips.ru/ (Laravel 9 + Vue)<br>
+http://reg.gospts.ru/ (Vue 2)<br>
+https://admin.gospts.ru/ (Laravel 9 Jetstream)<br>
 https://webseed.ru/ (HTML+CSS)<br>
 https://altai-voyage.ru/ (WP+Elementor)<br>
 https://спецагромаш.рф (WP) <br>
-https://kuratorplus.ru/ (Laravel+Vue)<br>
+https://kuratorplus.ru/ (Laravel 7 +Vue)<br>
 https://hudkoff.ru/ (WP+Woocommerce)<br>
 https://hiring-it.ru/ (WP)<br>
 https://newspeas.ru/ (WP+Elementor+Autoposting)<br>
-https://monolitcollector.ru/ (WP+Elementor)
+https://monolitcollector.ru/ (WP+Elementor) <br>
+https://automost.ru/ (Laravel 10) <br>
 
 
 
