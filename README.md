@@ -32,7 +32,7 @@ https://webseed.ru/ (HTML+CSS)<br>
 https://altai-voyage.ru/ (WP+Elementor)<br>
 https://спецагромаш.рф (WP) <br>
 https://kuratorplus.ru/ (Laravel 7 +Vue)<br>
-https://ti-stolic.ru (WP) <br>
+https://ti-stolica.ru/ (WP) <br>
 https://monolitcollector.ru/ (WP+Elementor) <br>
 https://automost.ru/ (Laravel 10) <br>
 
