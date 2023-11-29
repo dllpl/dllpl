@@ -34,7 +34,7 @@ https://спецагромаш.рф (WP) <br>
 https://kuratorplus.ru/ (Laravel 7 +Vue)<br>
 https://ti-stolica.ru/ (WP) <br>
 https://monolitcollector.ru/ (WP+Elementor) <br>
-https://automost.ru/ (Laravel 10) <br>
+https://automost.pro/ (Laravel 10) <br>
 
 
 
