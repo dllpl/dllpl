@@ -24,7 +24,7 @@ Worked as a team co-founder of a startup 2016-2020, won grant competitions. I ru
 
 **My current and completed projects** <br>
 https://dengimigom.ru/ (WP+Elementor)<br>
-https://lk.dengimigom.ru/ (Laravel 9 + Vue 2)<br>
+https://lk2.dengimigom.ru/ (Laravel 9 + Vue 2)<br>
 https://locotrips.ru/ (Laravel 9 + Vue)<br>
 http://reg.gospts.ru/ (Vue 2)<br>
 https://admin.gospts.ru/ (Laravel 9 Jetstream)<br>
