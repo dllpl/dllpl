@@ -35,6 +35,9 @@ https://kuratorplus.ru/ (Laravel 7 +Vue)<br>
 https://ti-stolica.ru/ (WP) <br>
 https://monolitcollector.ru/ (WP+Elementor) <br>
 https://automost.pro/ (Laravel 10) <br>
+https://bankrotfl.ru/ (Vue + Nuxt + WP REST API) <br>
+https://optimalchim.ru/ (Vue + Nuxt) <br>
+
 
 
 
