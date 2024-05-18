@@ -16,7 +16,8 @@ My name is Nikita, I have been doing web development for more than 5 years. <br>
 
 **More:**<br>
 I work as a full-stack developer (Laravel+Vue) in a company from the financial and credit sector, team leader in the development of a personal account. Made the project from layout to release. I know from the inside how companies in the financial sector work with their scoring, equifaxes, telephony, recalculations, complex business logic and many microservices. I understand other people's code.
-Worked as a team co-founder of a startup 2016-2020, won grant competitions. I run my own business of creating turnkey websites. Worked in the IT department of the KAMAZ state corporation. Every day I improve my programming skills. Ready to learn and experience something new. I lead a healthy lifestyle and do charity work. I love Laravel+Vue (my main stack), I’m ready to dive into some other languages and frameworks (for example NodeJS, Express, TS). I don’t like 1C-Bitrix, although I have a little experience with it; as for CMS, I prefer WP in conjunction with Elementor - I have made a large number of commercially successful sites and contributed to this combination of technologies.
+Worked as a team co-founder of a startup 2016-2020, won grant competitions. I run my own business of creating turnkey websites. Worked in the IT department of the KAMAZ state corporation. Every day I improve my programming skills. Ready to learn and experience something new. I lead a healthy lifestyle and do charity work. I love Laravel+Vue (my main stack), I’m ready to dive into some other languages and frameworks (for example NodeJS, Express, TS). I don’t like 1C-Bitrix, although I have a little experience with it; as for CMS, I prefer WP in conjunction with Elementor - I have made a large number of commercially successful sites and contributed to this combination of technologies. 
+I learning the Go language, he has a great future.
 
 ## My statistics on GitHub
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=dllpl&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/dllpl/)
@@ -38,6 +39,6 @@ https://automost.pro/ (Laravel 10) <br>
 https://bankrotfl.ru/ (Vue + Nuxt + WP REST API) <br>
 https://optimalchim.ru/ (Vue + Nuxt) <br>
 
-
+Also, I develop for the benefit of an open source community. You can see some of the works below. 
 
 
