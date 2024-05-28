@@ -10,7 +10,7 @@ My name is Nikita, I have been doing web development for more than 5 years. <br>
 - 🖥  Web-developer (Full-stack)<br>
 
 - 😛 HTML, CSS, JS, PHP, MySQL, MSSQL
-- 🔧 Laravel(sanctum), Vue 3 (Vuetify, Vuex, Composition API), Nuxt 3 (SSR, SPA)
+- 🔧 PHP, Laravel(sanctum), Vue 3 (Vuetify, Vuex, Composition API), Nuxt 3 (SSR, SPA), GO in process..
 - 🧙‍♂️ CMS Wordpress, Woocommerce<br>
 - ⚒  Git, Gitlab, Github, Jira, Trello, Linux
 
