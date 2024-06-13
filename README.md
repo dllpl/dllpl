@@ -36,8 +36,10 @@ https://kuratorplus.ru/ (Laravel 7 +Vue)<br>
 https://ti-stolica.ru/ (WP) <br>
 https://monolitcollector.ru/ (WP+Elementor) <br>
 https://automost.pro/ (Laravel 10) <br>
-https://bankrotfl.ru/ (Vue + Nuxt + WP REST API) <br>
-https://optimalchim.ru/ (Vue + Nuxt) <br>
+https://bankrotfl.ru/ (Nuxt 3 + WP REST API) <br>
+https://optimalchim.ru/ (Nuxt 3) <br>
+https://bankrot-chelny.ru/ (Nuxt 3) <br>
+https://ecolab-pro.ru/ (Nuxt 3) <br>
 
 Also, I develop for the benefit of an open source community. You can see some of the works below. 
 
